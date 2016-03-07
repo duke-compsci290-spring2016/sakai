@@ -1,3 +1,5 @@
+Adding this test message into the README to practice making a pull request.
+
 # Sakai CLE
 
 This is the source code for the Sakai CLE.
