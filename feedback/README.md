@@ -1,4 +1,4 @@
-Sakai Feeback Tool
+Sakai Feedback Tool
 ==================
 
 Overview
@@ -44,7 +44,7 @@ as required. An example toolOrder.xml is in the root of the feedback project.
 
 To backfill existing sites to have the Feedback Tool. you need to run a quartz 
 job to add the tool to all the sites. There is a Job called "Backfill tool into sites"
-which when run can add a specific tool to all sites that match a partiular type.
+which when run can add a specific tool to all sites that match a particular type.
 
 Developers
 ----------
