@@ -1,5 +1,6 @@
 # Contributing to Sakai
 
+#Test Change from mvn3
 Contributions to Sakai from all comers are welcome and encouraged.
 
 Please use these guidelines and the information in [README.md](README.md) to assure that your contributions are compatible with our (evolving) workflow and practices.
